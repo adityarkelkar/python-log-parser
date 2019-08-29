@@ -7,6 +7,6 @@ This is a self made project to parse log files with a python script
 
 ### Parse function
 - Sample parse file defines 3 functions here
-    1. Read file: Read a sample log file and extract all IP addresses mentioned using a regular expression
-    2. Count IP: Count the frequency of each IP
-    3. Create CSV: Gather data from the above two functions and export it to a CSV file
+    1. **Read file**: Read a sample log file and extract all IP addresses mentioned using a regular expression
+    2. **Count IP**: Count the frequency of each IP
+    3. **Create CSV**: Gather data from the above two functions and export it to a CSV file
